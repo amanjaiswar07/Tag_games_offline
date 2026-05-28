@@ -59,7 +59,7 @@ First successful tag wins the match.
 
 ## 🚀 Run The Game
 
-```bash
+
 ## 📸 Gameplay Preview
 ![Game Menu](assets/Game_menu.png.png)
 
