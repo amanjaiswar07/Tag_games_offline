@@ -55,8 +55,8 @@ First successful tag wins the match.
 - Python
 - Pygame
 
-pip install pygame
-python main.py
+#pip install pygame
+#python main.py
 
 
 ---
