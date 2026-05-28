@@ -61,11 +61,8 @@ First successful tag wins the match.
 
 ```bash
 ## 📸 Gameplay Preview
+![Game Menu](assets/Game_menu.png.png)
 
-![Gameplay](screenshots/gameplay.png)
-
-![Power Cubes](screenshots/powercubes.png)
-
-![Sudden Death](screenshots/suddendeath.png)
+![Game Screen](assets/game_screen.png.png)
 pip install pygame
 python main.py
